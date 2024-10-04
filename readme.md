@@ -12,16 +12,17 @@ Discover powerful game engines that can streamline your development process and 
 <br><br>
 :atom: **[Armory](https://armory3d.org)** <br>
 :atom: **[CryEngine](https://www.cryengine.com)** <br>
+:atom: **[GameMaker](https://gamemaker.io/en)** <br>
 :atom: **[Godot](https://godotengine.org)** <br>
 :atom: **[Solar2D](https://solar2d.com)** <br>
 :atom: **[Unreal Engine](https://www.unrealengine.com/en-US)** <br>
 :atom: **[Unity](https://unity.com)** <br>
 <hr>
-
 ### **Graphics and Visual Effects**
 Take your game visuals to the next level with this collection of resources. Find high-quality textures, shaders, 3D models, particle effects, and tutorials on creating stunning graphics for your games.
 <br><br>
 :atom: **[LotPixel](https://www.lotpixel.com?ref=gitlp) | Premium & free texture. High quality 3D model, decal, texture library.**<br>
+:atom: **[SketchUp Texture Club](https://www.sketchuptextureclub.com) | Sketchup Textures, free textures library for 3D CG artists**<br>
 <hr>
 
 ### **Audio and Music**
