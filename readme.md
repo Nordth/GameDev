@@ -19,7 +19,7 @@ Discover powerful game engines that can streamline your development process and 
 :atom: **[Unity](https://unity.com)** <br>
 <hr>
 
-### **Graphics and Visual Effects**
+### **Graphics, Textures, 3D Models, Decals, HDRI, Atlas, Tree and Visual Effects**
 
 Take your game visuals to the next level with this collection of resources. Find high-quality textures, shaders, 3D models, particle effects, and tutorials on creating stunning graphics for your games.
 <br><br>
