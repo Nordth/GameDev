@@ -45,8 +45,10 @@ Master the art of game design with a variety of resources focused on game mechan
 ### **Game Development Tools**
 Discover a wide range of tools that can optimize your game development process. From version control systems to project management and debugging tools, this category has you covered.
 <br><br>
+
 :electron: **[line-sdk-unity](https://github.com/line/line-sdk-unity) | Provides a modern way of implementing LINE APIs, iOS and Android for Unity.**<br>
 :electron: **[LoadingScreen](https://github.com/ue4plugins/LoadingScreen) | Loading screen for Unreal Engine.**<br>
+:electron: **[LoadingScreen](https://github.com/KeiLazu/Loading-Screen-Unity) | Loading screen for Unity.**<br>
 :electron: **[roadbuilder](https://github.com/guotata1996/roadbuilder) | Easy-to-build realistic roads for Unity.**<br>
 :electron: **[SQLite4Unity3d](https://github.com/robertohuertasm/SQLite4Unity3d) | Database using for Unity.**<br>
 :electron: **[SteamBridge](https://github.com/trdwll/SteamBridge) | Steamworks API bridge for Unreal Engine.**<br>
