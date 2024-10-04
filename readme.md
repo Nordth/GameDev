@@ -21,8 +21,9 @@ Discover powerful game engines that can streamline your development process and 
 ### **Graphics and Visual Effects**
 Take your game visuals to the next level with this collection of resources. Find high-quality textures, shaders, 3D models, particle effects, and tutorials on creating stunning graphics for your games.
 <br><br>
-:atom: **[LotPixel](https://www.lotpixel.com?ref=gitlp) | Premium & free texture. High quality 3D model, decal, texture library.**<br>
-:atom: **[SketchUp Texture Club](https://www.sketchuptextureclub.com) | Sketchup Textures, free textures library for 3D CG artists**<br>
+
+:atom: **[LotPixel](https://www.lotpixel.com?ref=gitlp) | Premium & free texture. High quality 3D model, decal, texture library.** <br>
+:atom: **[SketchUp Texture Club](https://www.sketchuptextureclub.com) | Sketchup Textures, free textures library for 3D CG artists** <br>
 <hr>
 
 ### **Audio and Music**
